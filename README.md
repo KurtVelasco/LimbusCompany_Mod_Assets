@@ -12,7 +12,7 @@ DOWNLOAD THE LML FIRST: https://github.com/LEAGUE-OF-NINE/LimbusModLoader/releas
 
 ## Code
 
-1) silentWav - Replaces all wav file in a folder with your specified wav file.
+1) silentWav - Replaces all wav file in a folder with your specified wav file. Just drag and drop the folder path, then second, the wav file that will replace it.
    
 
 ![Uploading old-dante-doodles-v0-t664u55rjlka1.png…]()
