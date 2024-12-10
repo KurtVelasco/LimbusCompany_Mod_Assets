@@ -9,6 +9,7 @@ DOWNLOAD THE LML FIRST: https://github.com/LEAGUE-OF-NINE/LimbusModLoader/releas
 2) Zwei_Bari - Replaces the head model of Ishmael into Bari
 3) Zwei_Ishmael as Bari - Replaces the entire model of Ishmael into Bari
 4) DonQ_Wildhunt - Replaces Wildhunt Heathcliff with Papa Don Qui
+5) Vergilius_Wildhunt - Replaces Wildhunt Heathcliff with Vergilius
 
 ## Code
 
